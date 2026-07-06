@@ -1,0 +1,23 @@
+html {box-sizing: border-box;
+}
+
+*{background-color: beige;
+    font-family: Arial, Helvetica, sans-serif;  
+
+}
+.recipe-link{
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+}
+.header-title{
+    font-size: 50px;
+   text-align: center;
+   margin-bottom: 20px;
+}
+.header-subtitle{
+    font-size: 20px;
+margin-bottom: 20px;
+
+   text-align: center;
+}
